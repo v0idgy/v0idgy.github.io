@@ -1,0 +1,5 @@
+theme: "jekyll-theme-hacker"
+title: null
+show_githublink: false
+github:
+  is_project_page: false
