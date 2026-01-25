@@ -1,5 +1,5 @@
 
-# Demystifying Artificial Intelligence for Everyone
+# Artificial Intelligence for Everyone
 
 Hi! I'm [**Gourav Yadav**](https://v0idgy.github.io/), I'm a passionate Data Scientist and AI professional with 3+ years of experience in research, teaching, and industry. My expertise lies in leveraging cutting-edge techniques like Machine Learning, Deep Learning, and Computer Vision to drive positive change in the healthcare landscape.
 
